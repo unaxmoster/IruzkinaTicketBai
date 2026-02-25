@@ -1,0 +1,27 @@
+{
+  "api/TicketBai.Saltzailea.html": {
+    "href": "api/TicketBai.Saltzailea.html",
+    "title": "Class Saltzailea | weba",
+    "summary": "Class Saltzailea Namespace TicketBai Assembly TicketBai.dll TicketBai sistemako saltzaile domeinu objektua. Saltzaile bakoitzak ID eta izena du. public class Saltzailea Inheritance object Saltzailea Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors Saltzailea(int, string) Saltzaile objektu berria sortzen du. public Saltzailea(int id, string izena) Parameters id int Saltzailearen IDa. izena string Saltzailearen izena. Properties Id public int Id { get; set; } Property Value int Izena public string Izena { get; set; } Property Value string"
+  },
+  "api/TicketBai.html": {
+    "href": "api/TicketBai.html",
+    "title": "Namespace TicketBai | weba",
+    "summary": "Namespace TicketBai Classes Saltzailea TicketBai sistemako saltzaile domeinu objektua. Saltzaile bakoitzak ID eta izena du."
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | weba",
+    "summary": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | weba",
+    "summary": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | weba",
+    "summary": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
